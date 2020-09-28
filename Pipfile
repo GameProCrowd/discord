@@ -1,0 +1,11 @@
+[[source]]
+url = "https://pypi.python.org/simple"
+name = "pypi"
+verify_ssl = true
+
+[packages]
+"discord.py" = "*"
+peewee = "*"
+
+[requires]
+python_version = "3.8.6"

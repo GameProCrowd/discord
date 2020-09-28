@@ -1,0 +1,2 @@
+# Prevent idiots from accidentally leaking secrets.
+.token
